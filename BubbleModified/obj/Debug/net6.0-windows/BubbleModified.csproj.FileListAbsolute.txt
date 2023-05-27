@@ -1,0 +1,17 @@
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\bin\Debug\net6.0-windows\BubbleModified.exe
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\bin\Debug\net6.0-windows\BubbleModified.deps.json
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\bin\Debug\net6.0-windows\BubbleModified.runtimeconfig.json
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\bin\Debug\net6.0-windows\BubbleModified.dll
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\bin\Debug\net6.0-windows\BubbleModified.pdb
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.csproj.AssemblyReference.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.Burbuja.resources
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.csproj.GenerateResource.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.AssemblyInfoInputs.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.AssemblyInfo.cs
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.csproj.CoreCompileInputs.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.dll
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\refint\BubbleModified.dll
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.pdb
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\BubbleModified.genruntimeconfig.cache
+C:\Users\SENA.DESKTOP-0H4IOVL\source\repos\BubbleModified\BubbleModified\obj\Debug\net6.0-windows\ref\BubbleModified.dll
